@@ -18,7 +18,9 @@
 
 In this version of NLW, we are going to build a widget to give feedbacks!
 
-This is an entirely complete application, which includes the development of the server, web and mobile applications. 
+This is an entirely complete application, which includes the development of the server, web and mobile applications.
+
+Wanna see the application online? [Check it out!](https://nlw-return-web-impulse.vercel.app/) 🚀
 
 ## Backend
 
@@ -67,4 +69,8 @@ npm run dev
 ![Capa](https://user-images.githubusercontent.com/17517028/167477331-beccecac-2855-4549-96ea-8fc3c992f769.png)
 
 
-# Final application
+# 🎁 Final application
+
+Check out the final application developed for web!
+
+https://user-images.githubusercontent.com/17517028/167488843-8ca824c6-e1f1-445a-bd1f-80bfc3d1d6f1.mp4
