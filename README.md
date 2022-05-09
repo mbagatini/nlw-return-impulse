@@ -40,7 +40,7 @@ We need to save the records in the database, so in order to do it correctly, che
 DATABASE_URL="mysql://my_connection"
 ```
 
-Change it to the database you want to connect. After that, is time to run the migration:
+Change it to the database you want to connect. After that, it's time to run the migration:
 
 ```bash
 npx prisma migrate dev
