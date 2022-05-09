@@ -1,5 +1,3 @@
-<img alt="Ignite" src="https://user-images.githubusercontent.com/17517028/167471059-c80ba610-7107-496d-a3f4-c2280983551a.png" />
-
 <p align="center">Next Level Week #8</p>
 
 <h3 align="center">
@@ -8,19 +6,27 @@
 
 <p align="center">
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+    <img alt="NLW" src="https://img.shields.io/badge/NLW-08-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 
+<img alt="NLW Return" src="https://user-images.githubusercontent.com/17517028/167477331-beccecac-2855-4549-96ea-8fc3c992f769.png" />
+
 # 💻 About this project
 
 In this version of NLW, we are going to build a widget to give feedbacks!
 
+This project was developed during the [NLW Return](https://lp.rocketseat.com.br/nlw-return), which happened from 01st May to 08th May.
+
 This is an entirely complete application, which includes the development of the server, web and mobile applications.
 
-Wanna see the application online? [Check it out!](https://nlw-return-web-impulse.vercel.app/) 🚀
+## 🚀 Online app
+
+Wanna see the application online? 
+
+- [https://nlw-return-web-impulse.vercel.app](https://nlw-return-web-impulse.vercel.app/)
 
 ## Backend
 
@@ -47,11 +53,13 @@ To check for more details, aceess the [repo in Github](https://github.com/mbagat
   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
  </p>
 
-# 🎨 Application layout
+# 🔖 Application layout
 
-[Check on Figma](https://www.figma.com/file/p7DCgsMWVaywbGqMvo2ISF/Feedback-Widget-(Community)?node-id=100%3A2114)
+You can check the layout of this project clicking in the link below:
 
-![Capa](https://user-images.githubusercontent.com/17517028/167477331-beccecac-2855-4549-96ea-8fc3c992f769.png)
+ - [Check on Figma](https://www.figma.com/file/p7DCgsMWVaywbGqMvo2ISF/Feedback-Widget-(Community)?node-id=100%3A2114)
+
+You must have Figma account to access it!
 
 
 # 🎁 Final application
@@ -59,3 +67,7 @@ To check for more details, aceess the [repo in Github](https://github.com/mbagat
 Check out the final application developed for web!
 
 https://user-images.githubusercontent.com/17517028/167488843-8ca824c6-e1f1-445a-bd1f-80bfc3d1d6f1.mp4
+
+# 📝 License
+
+This project is under MIT license.
