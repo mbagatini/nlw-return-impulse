@@ -24,7 +24,7 @@ This is an entirely complete application, which includes the development of the 
 
 [Repo in Github](https://github.com/mbagatini/nlw-return-server)
 
-### How to run it?
+#### How to run it?
 
 Clone the repository to your machine.
 
