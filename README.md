@@ -24,43 +24,28 @@ Wanna see the application online? [Check it out!](https://nlw-return-web-impulse
 
 ## Backend
 
-[Repo in Github](https://github.com/mbagatini/nlw-return-server)
-
-#### How to run it?
-
-Clone the repository to your machine.
-
-Install the dependencies:
-
-```bash
-npm install
-```
-
-We need to save the records in the database, so in order to do it correctly, check the .env file wich contains the URL for the database connection. 
-
-```env
-DATABASE_URL="mysql://my_connection"
-```
-
-Change it to the database you want to connect. After that, it's time to run the migration:
-
-```bash
-npx prisma migrate dev
-```
-
-If the configuration is ready and connected to the database, let's start the application:
-```bash
-npm run dev
-```
+To check for more details, aceess the [repo in Github](https://github.com/mbagatini/nlw-return-server)
 
 ## Web
 
-[Repo in Github](https://github.com/mbagatini/nlw-return-web)
+To check for more details, aceess the [repo in Github](https://github.com/mbagatini/nlw-return-web)
 
 ## Mobile
 
-[Repo in Github](https://github.com/mbagatini/nlw-return-mobile)
+To check for more details, aceess the [repo in Github](https://github.com/mbagatini/nlw-return-mobile)
 
+## Technology Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+ </p>
 
 # 🎨 Application layout
 
